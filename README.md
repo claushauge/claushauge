@@ -1,8 +1,9 @@
 # 👋 Hej, I’m @claushauge
-I'm a graphic designer and soon-to-be front end developer. Currently I'm studying at Media College Denmark, while I help out my friends with great graphic design in my spare time 
-- 👀 I like design, architecture and going to art galleries. 
-- 🌱 I’m currently learning to use GitHub in my workflow.
-- Like to know more? Well, I guess you have to wait for a while, I'm giving my portfolio a makeover at the moment...
+I used to be a Graphic Designer, but nowadays I'm more focused on front end development. I got a portfolio @ [haugestudio.dk](https://haugestudio.dk), although I'm currently working on a makeover of it. In the daytime, I'm finishing my degree in web development at the Media College Denmark, while at night I help out my friends with great graphic design. I'm the type of person who needs an office and steady working hours to really be productive (so much for stereotypes about developers), and I love to create great websites, that both look great and consists of a lot of great code. Also I'm:
+- a sucker for design, architecture and art 👀
+- quite decent at keeping plants alive 🌱
+- great at cooking 👨‍🍳
+- currently learning to use Node.JS 🖥
 <!---
 claushauge/claushauge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
