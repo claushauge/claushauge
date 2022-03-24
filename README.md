@@ -3,7 +3,7 @@ I used to be a Graphic Designer, but nowadays I'm more focused on front end deve
 - a sucker for design, architecture and art 👀
 - quite decent at keeping plants alive 🌱
 - great at cooking 👨‍🍳
-- currently learning to use Node.JS 🖥
+- currently fetching stuff in React.JS 🖥
 <!---
 claushauge/claushauge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
